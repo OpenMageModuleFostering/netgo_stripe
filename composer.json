@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Netgo_Stripe",
+    "name": "openmage-module-fostering\/netgo_stripe",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allows admin to add a payment method for accepting Credit Cards Payments by merchants via Stripe.",
     "authors": [
